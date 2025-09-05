@@ -7,9 +7,9 @@ It features a circular spinner with rotating text animation using the `@keyframe
 ---
 
 ## 📸 Preview
-![Preview](screenshot1)  
-![Preview](screenshot2)  
-![Preview](screenshot3)  
+![Preview](screenshot1.png)  
+![Preview](screenshot2.png)  
+![Preview](screenshot3.png)  
 
 ---
 
